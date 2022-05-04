@@ -10,20 +10,3 @@
 .bg-primary{
     background-color: var(--maroon)!important;
 }
-
-.shopping-cart{
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.heart{
-    display: flex;
-    flex-wrap: wrap;
-
-}
-
-.search{
-    display: flex;
-    flex-wrap: wrap;
-
-}
