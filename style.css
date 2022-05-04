@@ -10,3 +10,8 @@
 .bg-primary{
     background-color: var(--maroon)!important;
 }
+
+.shopping-cart{
+    display: flex;
+
+}
